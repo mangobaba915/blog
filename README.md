@@ -3,21 +3,21 @@
 博客地址：https://blog.csdn.net/mangobaba
 
 # 目录
-> java基础
+### java基础
 
-  >> List、set、map集合(https://blog.csdn.net/mangobaba/article/category/9308507)
+  - [List、set、map集合](https://blog.csdn.net/mangobaba/article/category/9308507)
   
-  >> IO
+  - [IO]
   
-  >> 反射
+  - [反射]
   
-  >> 多线程
+  - [多线程]
   
-  >> JVM
+  - [JVM]
 
-> 工作总结
+### 工作总结
 
-> 面试
+### 面试
 
-> 生活日常
+### 生活日常
 
