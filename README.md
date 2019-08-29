@@ -7,13 +7,7 @@
 
   - [List、set、map集合](https://blog.csdn.net/mangobaba/article/category/9308507)
   
-  - [IO]
-  
-  - [反射]
-  
-  - [多线程]
-  
-  - [JVM]
+  - [多线程](https://blog.csdn.net/mangobaba/article/details/90903560)
 
 ### 工作总结
 
