@@ -3,7 +3,7 @@
 博客地址：https://blog.csdn.net/mangobaba
 
 # 目录
-### java基础
+> java基础
 
   - [List、set、map集合](https://blog.csdn.net/mangobaba/article/category/9308507)
   
